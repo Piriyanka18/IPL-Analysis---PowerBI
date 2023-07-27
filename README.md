@@ -8,9 +8,20 @@ Develop a IPL Dashbord for season 2008 to 2022 to have a detailed insight on bel
 3. Winning persentage based on the toss decision.
 4. Matchas win by venue.
 5.Total wins by team in a season.
-
 6. Matches won based on the result type.
-
-
   
 8. ![image](https://github.com/Piriyanka18/IPL-Analysis---PowerBI/assets/80697383/19fca58d-ccc9-42a2-a9a6-9b5b73dabaa6)
+
+
+Steps
+-  connect Power BI to MS SQL Server 
+- Import data in Power BI
+- Data Cleaning in Power BI
+- Data Modelling in Power BI
+- Power Query Editor
+- DAX in Power BI
+- Measures and Calculations in Power BI
+- Charts in Power BI
+- Filters and Slicers in Power BI
+- Dashboard in Power BI 
+- Insights from Dashboard 
