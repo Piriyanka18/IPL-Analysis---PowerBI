@@ -8,6 +8,7 @@ Develop a IPL Dashbord for season 2008 to 2022 to have a detailed insight on bel
 3. Winning persentage based on the toss decision.
 4. Matchas win by venue.
 5.Total wins by team in a season.
+
 6. Matches won based on the result type.
 
 
